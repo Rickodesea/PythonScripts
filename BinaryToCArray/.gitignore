@@ -1,0 +1,6 @@
+*.txt
+*.pyc
+*.c
+*.o
+*.out
+Makefile

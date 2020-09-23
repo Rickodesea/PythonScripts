@@ -1,0 +1,8 @@
+1.0.0
+
+[History]
+1.0.0
+	- Created TextToCString.py.
+	- Created BinaryToCArray.py.
+	- Created CenterText.py
+	- Created TextToCComment.py
